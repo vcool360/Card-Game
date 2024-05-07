@@ -1,5 +1,5 @@
 ### Overview
-The program utilizes a `main` class called `Cards` to implement the functionality of dealing and managing hands of cards from a deck. It features user interaction through the console for shuffling and drawing hands, and even allows for swapping hands under specific conditions.
+This program utilizes a `main` class called `Cards` to implement the functionality of dealing and managing hands of cards from a deck. It features user interaction through the console for shuffling and drawing hands, and even allows for swapping hands under specific conditions.
 
 ### Features
 **Deck Initialization**: Initializes a standard deck of 52 playing cards, combining four suits (Hearts, Clubs, Diamonds, Spades) with thirteen values (Ace through King).
