@@ -112,7 +112,7 @@ public class Cards {
 }
 
 --------------------------------------------------------
-The first code appears to only save one hand of the deck. The second code is fucked up with errors involving types (lists and arrays) but I tried to assign all four hands with a variable to try to help with the swap statements. 
+The first code appears to only save one hand of the deck. The second code is messed up with errors involving types (lists and arrays) but I tried to assign all four hands with a variable to try to help with the swap statements. 
 import java.util.Arrays;
 import java.util.*;
 import java.util.ArrayList;
