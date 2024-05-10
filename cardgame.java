@@ -1,3 +1,5 @@
+/*This program utilizes a main class called Cards to implement the functionality of dealing and managing hands of cards from a deck.
+ It features user interaction through the console for shuffling and drawing hands, and even allows for swapping hands under specific conditions.*/
 import java.util.Arrays;
 import java.util.*;
 import java.util.ArrayList;
